@@ -1,0 +1,12 @@
+body {
+	background-image: linear-gradient(to right,red,black);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attacment: scroll;
+	
+	
+}
+
+div{
+	background-image: url("img/fondo.png");
+}
